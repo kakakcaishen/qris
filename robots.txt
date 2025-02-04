@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kakakcaishen.github.io/qris/sitemap.xml
